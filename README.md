@@ -73,6 +73,12 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diveshsaini1991.diveshsaini1991&"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/diveshsaini1991/diveshsaini1991/output/snake.svg" alt="Snake animation" />
 
 ###
