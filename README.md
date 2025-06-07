@@ -1,6 +1,6 @@
 <h2 align="left">
 👋 Hi, I'm Divesh Saini <br>
-🎓 3rd-Year CSE Student | 💻 Full-Stack Developer (MERN) | ⚙️ Backend Enthusiast <br>
+🎓 Final-Year CSE Student | 💻 Full-Stack Developer (MERN) | ⚙️ Backend Enthusiast <br>
 🚀 Always exploring new technologies and leveling up my skills <br>
 🎮 Balancing bugs and boss fights – that’s the grind!
 </h2>
