@@ -96,3 +96,7 @@
 <img src="https://raw.githubusercontent.com/diveshsaini1991/diveshsaini1991/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
